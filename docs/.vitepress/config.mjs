@@ -4,20 +4,24 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "untainsYD blog",
   description: "Yaroslav Doroshenko - Software Engineer & Functional Programming Enthusiast",
+
   base: "/untainsYD.github.io/",
+
+  ignoreDeadLinks: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Posts', link: '/posts' }
+      { text: 'Posts', link: '/posts/' }
     ],
 
     sidebar: [
       {
         text: 'Posts',
         items: [
-          { text: 'All Posts', link: '/posts' },
-          { text: 'Google Summer of Code 2025', link: '/posts/gsoc25' }
+          { text: 'All Posts', link: '/posts/' },
+          { text: 'Google Summer of Code 2025', link: '/posts/gsoc25/' }
         ]
       }
     ],
