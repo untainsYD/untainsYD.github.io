@@ -9,11 +9,14 @@ tags: [gsoc, open-source, programming]
 
 [[toc]]
 
-Welcome to my Google Summer of Code 2025 journey! This page documents my experiences, learnings, and contributions during the program.
+Welcome to my Google Summer of Code 2025 journey! This page documents my experiences, learnings, and contributions
+during the program.
 
 ## Overview
 
-Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. Organizations with open source projects to be worked on are paired with programming students and professionals who are looking to contribute to these projects.
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software
+development. Organizations with open source projects to be worked on are paired with programming students and
+professionals who are looking to contribute to these projects.
 
 ## My Project
 
@@ -22,11 +25,13 @@ Google Summer of Code (GSoC) is a global, online program focused on bringing new
 ## Timeline & Progress
 
 ### Preparation Phase
+
 - [ ] Project selection and research
 - [ ] Community engagement
 - [ ] Proposal writing
 
 ### Coding Phase
+
 - [ ] Week 1-2: Initial setup and familiarization
 - [ ] Week 3-4: Core implementation
 - [ ] Week 5-6: Testing and refinement
@@ -35,6 +40,7 @@ Google Summer of Code (GSoC) is a global, online program focused on bringing new
 ## Weekly Updates
 
 ### Week 1
+
 *Updates coming soon...*
 
 ## Challenges & Learnings
@@ -51,8 +57,7 @@ This section will document the challenges I face during the program and the valu
 
 Feel free to reach out if you have any questions about my GSoC journey!
 
-**Email:** [untainsyd@gmail.com](mailto:untainsyd@gmail.com)
-**GitHub:** [untainsYD](https://github.com/untainsYD)
+**Email:** [untainsyd@gmail.com](mailto:untainsyd@gmail.com) **GitHub:** [untainsYD](https://github.com/untainsYD)
 
 ---
 

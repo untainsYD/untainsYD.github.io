@@ -1,6 +1,7 @@
 # Posts
 
-Welcome to my blog posts! Here you'll find articles about software engineering, functional programming, and my journey in computer science and mathematics.
+Welcome to my blog posts! Here you'll find articles about software engineering, functional programming, and my journey
+in computer science and mathematics.
 
 ## All Posts
 
@@ -11,12 +12,15 @@ Welcome to my blog posts! Here you'll find articles about software engineering, 
 ## Categories
 
 ### Software Engineering
+
 - Coming soon...
 
 ### Functional Programming
+
 - Coming soon...
 
 ### Computer Science Theory
+
 - Coming soon...
 
 ---
