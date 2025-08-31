@@ -5,7 +5,7 @@ export default defineConfig({
   title: "untainsYD blog",
   description: "Yaroslav Doroshenko - Software Engineer & Functional Programming Enthusiast",
 
-  base: "/untainsYD.github.io/",
+  base: "/",
 
   ignoreDeadLinks: true,
 
