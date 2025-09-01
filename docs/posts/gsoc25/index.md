@@ -476,8 +476,11 @@ The work completed during GSoC 2025 makes Doodle a more powerful tool for creati
 
 - [Doodle Repository](https://github.com/creativescala/doodle)
 - [Doodle documentation](https://www.creativescala.org/doodle)
+- [Why the svg filter is awesome](https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome)
 - [SVG Filter Specification](https://www.w3.org/TR/SVG11/filters.html)
+- [Java convolutions](https://docs.oracle.com/en/java/javase/18/docs/api/java.desktop/java/awt/image/ConvolveOp.html)
 - [Convolution Mathematics](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+- [Noel Welsh: "Functional Programming Strategies in Scala with Cats"](https://scalawithcats.com/dist/scala-with-cats.pdf)
 
 ---
 
